@@ -2,7 +2,7 @@
 using namespace std;
 #define read(type) readInt<type>() // Fast read
 #define ll long long
-#define nl "\n"
+#define nL "\n"
 #define pb push_back
 #define mk make_pair
 #define pii pair<int, int>
@@ -21,14 +21,17 @@ int32_t main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-   	ll n;cin>>n;
-   	ll a,b,c;ll co=0;
-   	for (int i = 0; i < n; ++i)
-   	{
-   		cin>>a>>b>>c;
-   		if(a+b+c>=2)
-   			co++;
-   	}
-   	cout<<co<<nl;
-   }
-   
+    int ttt; cin >> ttt;
+    ll a,b,c;
+    int count=0;
+    while(ttt--) {
+    	
+    	cin>>a>>b>>c;
+    	if((a+b+c)>1){
+    		count++;
+    	}
+    	
+    }
+	cout<<count;
+    return 0;
+}
