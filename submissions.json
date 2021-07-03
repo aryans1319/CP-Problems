@@ -1,4 +1,20 @@
 {
+  "CF121218345": {
+    "contest_id": 1542,
+    "language": "GNU C++17",
+    "path": "codeforces\\1542\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd Set",
+    "problem_url": "https://codeforces.com/contest/1542/problem/A",
+    "submission_id": "CF121218345",
+    "submission_url": "https://codeforces.com/contest/1542/submission/121218345",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/03/2021 19:19"
+  },
   "CF122473170": {
     "contest_id": 1550,
     "language": "GNU C++17",
