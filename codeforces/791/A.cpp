@@ -21,13 +21,12 @@ int32_t main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-   	ll a,b;
-   	cin>>a>>b;
-   	ll count=0;
-   	while(a<=b){
-   		count++;
-   		a*=3;
-   		b*=2;
-   	}
-   	cout<<count<<nl;
+       ll a,b,c=0;
+       cin>>a>>b;
+       while(b>=a){
+        a=a*3;
+        b=b*2;
+        c++;
+       }
+       cout<<c<<nl;
 }
