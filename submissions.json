@@ -1,4 +1,24 @@
 {
+  "CF126212586": {
+    "contest_id": 1535,
+    "language": "GNU C++17",
+    "path": "codeforces\\1535\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array Reodering",
+    "problem_url": "https://codeforces.com/contest/1535/problem/B",
+    "submission_id": "CF126212586",
+    "submission_url": "https://codeforces.com/contest/1535/submission/126212586",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Aug/18/2021 02:18"
+  },
   "CF126292246": {
     "contest_id": 1560,
     "language": "GNU C++17",
