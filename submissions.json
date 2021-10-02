@@ -335,6 +335,22 @@
     ],
     "timestamp": "Sep/23/2021 19:21"
   },
+  "AC26311970": {
+    "contest_id": "abc221",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc221\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "typo",
+    "problem_url": "https://atcoder.jp/contests/abc221/tasks/abc221_b",
+    "submission_id": "AC26311970",
+    "submission_url": "https://atcoder.jp/contests/abc221/submissions/26311970",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/02/2021 18:52"
+  },
   "CF117313271": {
     "contest_id": 1520,
     "language": "GNU C++17",
