@@ -76,7 +76,7 @@ void solve() {
 	while (t--) {
 			ll n;
 			cin>>n;
-			cout<< (-n+1) <<" "<< n <<nline;
+			cout<<(-n+1)<<" "<<n<<nline;
 				
 		}
 }
