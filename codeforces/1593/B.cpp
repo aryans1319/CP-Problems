@@ -76,7 +76,7 @@ void solve() {
 	while (t--) {
 			string s;cin>>s;
 			int n=s.length();
-			int ans=n; // In worst case ans could be length - 2
+			int ans=n-2; // In worst case ans could be length - 2
 			for (int i = 0; i < n-1; ++i)
 			{
 				for (int j = i+1; j < n; ++j)
@@ -84,7 +84,7 @@ void solve() {
 					ll sum=s[i]-'0';
 					sum= (s[i]-'0')*10 + s[j]-'0';
 					if(sum%25==0){
-						ans=min(ans, j-i-1+n-j-1);
+						ans=min(ans, n-i-2);
 					}
 				}
 			}
