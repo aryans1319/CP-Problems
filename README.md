@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-79 | [A - Luntik and Concerts](https://codeforces.com/contest/1582/problem/A) | [GNU C++17](./codeforces/1582/A.cpp) | `math` | Oct/24/2021 16:46 | 
-78 | [B - Mongeness](https://atcoder.jp/contests/abc224/tasks/abc224_b) | [C++ (GCC 9.2.1)](./atcoder/abc224/B.cpp) | `AtCoder` `*200` | Oct/23/2021 18:46 | 
-77 | [A - Tires](https://atcoder.jp/contests/abc224/tasks/abc224_a) | [C++ (GCC 9.2.1)](./atcoder/abc224/A.cpp) | `AtCoder` `*100` | Oct/23/2021 17:34 | 
-76 | [A - Exact Price](https://atcoder.jp/contests/abc223/tasks/abc223_a) | [C++ (GCC 9.2.1)](./atcoder/abc223/A.cpp) | `AtCoder` `*100` | Oct/23/2021 15:28 | 
+80 | [A - Luntik and Concerts](https://codeforces.com/contest/1582/problem/A) | [GNU C++17](./codeforces/1582/A.cpp) | `math` | Oct/24/2021 16:46 | 
+79 | [B - Mongeness](https://atcoder.jp/contests/abc224/tasks/abc224_b) | [C++ (GCC 9.2.1)](./atcoder/abc224/B.cpp) | `AtCoder` `*200` | Oct/23/2021 18:46 | 
+78 | [A - Tires](https://atcoder.jp/contests/abc224/tasks/abc224_a) | [C++ (GCC 9.2.1)](./atcoder/abc224/A.cpp) | `AtCoder` `*100` | Oct/23/2021 17:34 | 
+77 | [A - Exact Price](https://atcoder.jp/contests/abc223/tasks/abc223_a) | [C++ (GCC 9.2.1)](./atcoder/abc223/A.cpp) | `AtCoder` `*100` | Oct/23/2021 15:28 | 
+76 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [GNU C++17](./codeforces/69/A.cpp) | `implementation` `math` `*1000` | Oct/21/2021 19:54 | 
 75 | [A - New Year and Counting Cards](https://codeforces.com/contest/908/problem/A) | [GNU C++17](./codeforces/908/A.cpp) | `brute force` `implementation` `*800` | Oct/15/2021 15:04 | 
 74 | [A - Nauuo and Votes](https://codeforces.com/contest/1173/problem/A) | [GNU C++17](./codeforces/1173/A.cpp) | `greedy` `*800` | Oct/14/2021 20:25 | 
 73 | [A - Vus the Cossack and a Contest](https://codeforces.com/contest/1186/problem/A) | [GNU C++17](./codeforces/1186/A.cpp) | `implementation` `*800` | Oct/14/2021 19:34 | 
