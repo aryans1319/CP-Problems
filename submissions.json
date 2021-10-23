@@ -463,6 +463,22 @@
     ],
     "timestamp": "Oct/09/2021 17:50"
   },
+  "AC26776206": {
+    "contest_id": "abc224",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc224\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Mongeness",
+    "problem_url": "https://atcoder.jp/contests/abc224/tasks/abc224_b",
+    "submission_id": "AC26776206",
+    "submission_url": "https://atcoder.jp/contests/abc224/submissions/26776206",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/23/2021 18:46"
+  },
   "CF117313271": {
     "contest_id": 1520,
     "language": "GNU C++17",
