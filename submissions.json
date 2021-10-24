@@ -1374,5 +1374,20 @@
       "*800"
     ],
     "timestamp": "Oct/15/2021 15:04"
+  },
+  "CF132895061": {
+    "contest_id": 1582,
+    "language": "GNU C++17",
+    "path": "codeforces\\1582\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Luntik and Concerts",
+    "problem_url": "https://codeforces.com/contest/1582/problem/A",
+    "submission_id": "CF132895061",
+    "submission_url": "https://codeforces.com/contest/1582/submission/132895061",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Oct/24/2021 16:46"
   }
 }
