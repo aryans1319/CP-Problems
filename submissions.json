@@ -1457,6 +1457,23 @@
     ],
     "timestamp": "Oct/24/2021 16:46"
   },
+  "CF133438082": {
+    "contest_id": 1342,
+    "language": "GNU C++17",
+    "path": "codeforces\\1342\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Road To Zero",
+    "problem_url": "https://codeforces.com/contest/1342/problem/A",
+    "submission_id": "CF133438082",
+    "submission_url": "https://codeforces.com/contest/1342/submission/133438082",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Oct/29/2021 16:43"
+  },
   "CF133588000": {
     "contest_id": 1606,
     "language": "GNU C++17",
